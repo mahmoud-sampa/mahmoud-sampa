@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Mahmoud Mojamed and I'm a full stack web developer , from Egypt.</p>
+<p align="left">My name is Mahmoud Mohamed and I'm a full stack web developer , from Egypt.</p>
 
 ###
 
@@ -37,6 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/m/m/blob/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/m/m/blob/output/snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 
 ###
