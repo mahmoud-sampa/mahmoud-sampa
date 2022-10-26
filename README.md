@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
-<h3 align="center">PHP Developer</h3>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
